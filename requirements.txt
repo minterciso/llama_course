@@ -2,3 +2,4 @@ jupyter
 langchain
 langchain_groq
 langchain_ollama
+dotenv
