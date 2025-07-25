@@ -2,4 +2,6 @@ jupyter
 langchain
 langchain_groq
 langchain_ollama
+langchain-tavily 
+langgraph-checkpoint-sqlite
 dotenv
